@@ -1,0 +1,104 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    color: black;
+    background-color: rgb(253, 221, 202);
+    background-position: fixed;
+    font-size: 14px;
+}
+
+/* POWERED BY CAUG.XYZ */
+
+#invitame {
+    text-decoration: none;
+    float: right;
+    margin-right: 100px;
+    margin-top: 25px;
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* POWERED BY CAUG.XYZ */
+
+#invitame2 {
+    text-decoration: none;
+    float: right;
+    margin-right: 45%;
+    margin-top: 5%;
+    width: 10%;
+    padding: 10px;
+    background-color: rgb(253, 221, 202);
+    border-radius: 10px;
+}
+
+/* POWERED BY CAUG.XYZ */
+
+#soporte {
+    color: black;
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+    margin-top: 25px;
+    width: 3%;
+    padding: 10px;
+}
+
+/* POWERED BY CAUG.XYZ */
+
+#icon_index{
+    width: 6%;
+    border-radius: 100px;
+    margin-top: 150px;
+    margin-left: 7%;
+}
+/* POWERED BY CAUG.XYZ */
+
+
+#squaretext{
+    width: 300px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+/* POWERED BY CAUG.XYZ */
+#squaretext_{
+    width: 800px;
+    margin-left: 30px;
+}
+
+/* POWERED BY CAUG.XYZ */
+#todo_texto {
+    width: 95%;
+    background-color: white;
+    border-radius: 10px;
+    height: 900px;
+}
+
+#squaretext_{
+    width: 80%;
+    margin-top: 10px;
+}
+
+#rafa_nar{
+    width: 20%;
+    border-radius: 5px;
+}
+
+#box_one{
+    background-color: rgb(241, 241, 241);
+    margin-top: 25px;
+    width: 25%;
+    border-radius: 15px;
+    float: left;
+    margin-left: 23%;
+}
+
+#box_two{
+    background-color: rgb(241, 241, 241);
+    margin-top: 25px;
+    width: 25%;
+    border-radius: 15px;
+    float: left;
+    margin-left: 50px;
+}

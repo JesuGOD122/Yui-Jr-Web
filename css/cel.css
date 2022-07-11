@@ -1,0 +1,59 @@
+@media screen and (max-width:800px){
+
+#invitame {
+    margin-right: 40px;
+    width: 17%;
+}
+
+#icon_index{
+    width: 70px;
+    margin-right: 220px;
+    float: right;
+    margin-top: 50px;
+}
+
+#squaretext{
+    width: 150px;
+    margin-top: 25px;
+}
+
+#todo_texto {
+    margin-top: 200px;
+    width: 90%;
+    background-color: white;
+    border-radius: 10px;
+    height: 1000px;
+}
+
+
+#invitame2 {
+    margin-right: 150px;
+    width: auto;
+    margin-top: 25px;
+}
+
+#squaretext_{
+    align-self: center;
+    margin-top: 10px;
+}
+
+#rafa_nar{
+    width: 20%;
+}
+
+#box_one{
+    background-color: rgb(241, 241, 241);
+    width: 80%;
+    border-radius: 15px;
+    float: right;
+    margin-right: 40px;
+}
+#box_two{
+    background-color: rgb(241, 241, 241);
+    width: 80%;
+    border-radius: 15px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+}
